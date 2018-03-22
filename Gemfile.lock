@@ -1,0 +1,38 @@
+GIT
+  remote: git://github.com/cloud66/copper.git
+  revision: 15ad53d14c3b064668619ca86cc984943c83ff22
+  specs:
+    copper (0.0.1)
+      colorize (~> 0.8)
+      ipaddress (~> 0.8)
+      json (~> 2.1)
+      jsonpath (~> 0.8)
+      semantic (~> 1.6)
+      thor (~> 0.20)
+      treetop (~> 1.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    ipaddress (0.8.3)
+    json (2.1.0)
+    jsonpath (0.8.11)
+      multi_json
+      to_regexp (~> 0.2.1)
+    multi_json (1.13.1)
+    polyglot (0.3.5)
+    semantic (1.6.1)
+    thor (0.20.0)
+    to_regexp (0.2.1)
+    treetop (1.6.10)
+      polyglot (~> 0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  copper!
+
+BUNDLED WITH
+   1.16.1
