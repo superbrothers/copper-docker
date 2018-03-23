@@ -1,8 +1,7 @@
-GIT
-  remote: git://github.com/cloud66/copper.git
-  revision: 15ad53d14c3b064668619ca86cc984943c83ff22
+GEM
+  remote: https://rubygems.org/
   specs:
-    copper (0.0.1)
+    c66-copper (0.0.2)
       colorize (~> 0.8)
       ipaddress (~> 0.8)
       json (~> 2.1)
@@ -10,10 +9,6 @@ GIT
       semantic (~> 1.6)
       thor (~> 0.20)
       treetop (~> 1.6)
-
-GEM
-  remote: https://rubygems.org/
-  specs:
     colorize (0.8.1)
     ipaddress (0.8.3)
     json (2.1.0)
@@ -32,7 +27,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  copper!
+  c66-copper
 
 BUNDLED WITH
    1.16.1

@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "copper", :git => 'https://github.com/cloud66/copper.git'
+gem "c66-copper"
