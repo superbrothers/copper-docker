@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "c66-copper"
+gem "c66-copper", "0.0.2"
